@@ -12,9 +12,9 @@ class Product
         pcode = obj.nextInt();
 	System.out.println("Enter Product Price: ");
         price = obj.nextInt();
-	 System.out.println("Producr Code = "+pcode);
-	 System.out.println("Producr Name = "+pname);
-	 System.out.println("Producr Price = "+price);
+	 System.out.println("Product Code = "+pcode);
+	 System.out.println("Product Name = "+pname);
+	 System.out.println("Product Price = "+price);
          System.out.println();
 }
 
